@@ -3,6 +3,7 @@
 
 #include "GeoreferencingActor.h"
 #include "GeoReferencingSubsystem.h"
+#include "Engine/World.h"
 
 // Sets default values
 AGeoreferencingActor::AGeoreferencingActor()
