@@ -6,6 +6,8 @@
 #include <SimulationSettings.h>
 #include "..\Public\GeoReferencingSubsystem.h"
 #include "GeoReferencingActor.h"
+#include "Engine/World.h"
+#include "Misc/Paths.h"
 
 
 UGeoReferencingSubsystem::UGeoReferencingSubsystem() : 
